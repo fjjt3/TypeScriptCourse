@@ -1,0 +1,9 @@
+(()=>{
+    
+    function callBatman(): void {
+        
+    }
+
+    callBatman()
+
+})()
