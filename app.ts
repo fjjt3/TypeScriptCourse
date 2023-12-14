@@ -3,6 +3,6 @@
     console.log(a);
 })()
 
-
+// All the code inside the adove function to encasulate 
 
 
